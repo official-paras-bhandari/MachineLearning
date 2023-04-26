@@ -12,3 +12,10 @@ How to bring data in google colab?
 for example :https://drive.google.com/file/d/1q4JEtOD0vCNtH0U4kLUHZqDMfThUCu9i/view?usp=share_link
 id is 1q4JEtOD0vCNtH0U4kLUHZqDMfThUCu9i
 so full code can be ! gdown id 1q4JEtOD0vCNtH0U4kLUHZqDMfThUCu9i
+
+OR
+
+You can get data direct from github 
+This link you can get form the data folder.
+final code is: !wget https://raw.githubusercontent.com/mrdbourke/zero-to-mastery-ml/master/data/heart-disease.csv
+where , important things: data must be in RAW Formate
