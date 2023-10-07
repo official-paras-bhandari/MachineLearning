@@ -1,0 +1,1 @@
+This is a project of Titaic Predicting Survival of People
